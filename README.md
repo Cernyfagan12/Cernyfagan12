@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cernyfagan12 👋
 
-<!--
-**Cernyfagan12/Cernyfagan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make games you can play right in your browser.
 
-Here are some ideas to get you started:
+## 🐍 Closing Snake — [▶ Play it now](https://cernyfagan12.github.io/closing-snake/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Snake, but the walls close in every few seconds!
+
+- 🗺️ 7 stages with rocks to dodge
+- 📅 A new daily challenge every day
+- 🎨 Skins, ⚡ upgrades and 🏅 12 achievements
+- 📱 Works on phones too
+
+⭐ If you like it, [give it a star](https://github.com/Cernyfagan12/closing-snake)!
